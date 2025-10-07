@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+German E. Avila [22212250]; L22212250@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
