@@ -14,7 +14,6 @@ repository-code: 'https://github.com/German-E-Avila-S/Practica1MSF'
 keywords:
   - Circuito RLC
   - Controlador PID
-  - Sitema Repiratorio
   - Modelo matematico
   - Simulaciones numericas
 license: BSD-2-Clause
